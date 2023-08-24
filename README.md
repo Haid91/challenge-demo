@@ -70,3 +70,21 @@ Removed the online-reputation-management class and rules in CSS updated to id
 Removed the social-media-marketing class and rules in CSS updated to id
 
 The </img> was removed
+
+https://haid91.github.io/challenge-demo/
+
+https://github.com/Haid91/challenge-demo
+
+References
+
+Code refactoring
+
+Semantic HTML
+
+Web accessibility standards
+
+Markdown and Visual Studio Code
+
+Make a README
+
+Interactive tutorial
