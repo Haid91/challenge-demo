@@ -73,7 +73,7 @@ The </img> was removed
 
 https://haid91.github.io/challenge-demo/
 
-https://github.com/Haid91/challenge-demo
+https://github.com/Haid91/challenge-demo/tree/main
 
 References
 
